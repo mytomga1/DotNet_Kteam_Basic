@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day03_LoopWhile\bin\Debug\Day03_LoopWhile.exe.config
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day03_LoopWhile\bin\Debug\Day03_LoopWhile.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day03_LoopWhile\bin\Debug\Day03_LoopWhile.pdb
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day03_LoopWhile\obj\Debug\Day03_LoopWhile.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day03_LoopWhile\obj\Debug\Day03_LoopWhile.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day03_LoopWhile\obj\Debug\Day03_LoopWhile.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day03_LoopWhile\obj\Debug\Day03_LoopWhile.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day03_LoopWhile\obj\Debug\Day03_LoopWhile.pdb

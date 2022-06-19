@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day06_Foreach\bin\Debug\Day06_Foreach.exe.config
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day06_Foreach\bin\Debug\Day06_Foreach.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day06_Foreach\bin\Debug\Day06_Foreach.pdb
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day06_Foreach\obj\Debug\Day06_Foreach.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day06_Foreach\obj\Debug\Day06_Foreach.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day06_Foreach\obj\Debug\Day06_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day06_Foreach\obj\Debug\Day06_Foreach.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day06_Foreach\obj\Debug\Day06_Foreach.pdb

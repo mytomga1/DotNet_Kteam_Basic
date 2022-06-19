@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day02_Loop\obj\Debug\Day02_LoopFor.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day02_Loop\obj\Debug\Day02_LoopFor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day02_Loop\obj\Debug\Day02_LoopFor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day02_Loop\obj\Debug\Day02_Loop.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day02_Loop\obj\Debug\Day02_Loop.pdb
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day02_Loop\bin\Debug\Day02_Loop.exe.config
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day02_Loop\bin\Debug\Day02_Loop.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day02_Loop\bin\Debug\Day02_Loop.pdb

@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day04_Ham\obj\Debug\Day04_Ham.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day04_Ham\obj\Debug\Day04_Ham.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day04_Ham\obj\Debug\Day04_Ham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day04_Ham\bin\Debug\Day04_Ham.exe.config
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day04_Ham\bin\Debug\Day04_Ham.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day04_Ham\bin\Debug\Day04_Ham.pdb
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day04_Ham\obj\Debug\Day04_Ham.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day04_Ham\obj\Debug\Day04_Ham.pdb

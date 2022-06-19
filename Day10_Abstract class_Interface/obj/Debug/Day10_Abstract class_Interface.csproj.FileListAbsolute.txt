@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day10_Abstract class_Interface\obj\Debug\Day10_Abstract class_Interface.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day10_Abstract class_Interface\obj\Debug\Day10_Abstract class_Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day10_Abstract class_Interface\obj\Debug\Day10_Abstract class_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day10_Abstract class_Interface\bin\Debug\Day10_Abstract class_Interface.exe.config
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day10_Abstract class_Interface\bin\Debug\Day10_Abstract class_Interface.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day10_Abstract class_Interface\bin\Debug\Day10_Abstract class_Interface.pdb
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day10_Abstract class_Interface\obj\Debug\Day10_Abstract class_Interface.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day10_Abstract class_Interface\obj\Debug\Day10_Abstract class_Interface.pdb

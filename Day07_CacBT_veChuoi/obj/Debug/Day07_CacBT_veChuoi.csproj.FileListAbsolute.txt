@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day07_CacBT_veChuoi\bin\Debug\Day07_CacBT_veChuoi.exe.config
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day07_CacBT_veChuoi\bin\Debug\Day07_CacBT_veChuoi.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day07_CacBT_veChuoi\bin\Debug\Day07_CacBT_veChuoi.pdb
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day07_CacBT_veChuoi\obj\Debug\Day07_CacBT_veChuoi.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day07_CacBT_veChuoi\obj\Debug\Day07_CacBT_veChuoi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day07_CacBT_veChuoi\obj\Debug\Day07_CacBT_veChuoi.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day07_CacBT_veChuoi\obj\Debug\Day07_CacBT_veChuoi.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day07_CacBT_veChuoi\obj\Debug\Day07_CacBT_veChuoi.pdb

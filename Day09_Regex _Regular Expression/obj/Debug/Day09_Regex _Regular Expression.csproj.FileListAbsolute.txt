@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day09_Regex _Regular Expression\obj\Debug\Day09_Regex _Regular Expression.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day09_Regex _Regular Expression\obj\Debug\Day09_Regex _Regular Expression.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day09_Regex _Regular Expression\obj\Debug\Day09_Regex _Regular Expression.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day09_Regex _Regular Expression\bin\Debug\Day09_Regex _Regular Expression.exe.config
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day09_Regex _Regular Expression\bin\Debug\Day09_Regex _Regular Expression.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day09_Regex _Regular Expression\bin\Debug\Day09_Regex _Regular Expression.pdb
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day09_Regex _Regular Expression\obj\Debug\Day09_Regex _Regular Expression.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day09_Regex _Regular Expression\obj\Debug\Day09_Regex _Regular Expression.pdb

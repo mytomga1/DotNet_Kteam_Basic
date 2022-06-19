@@ -1,0 +1,8 @@
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day05_Array1Chieu\bin\Debug\Day05_Array1Chieu.exe.config
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day05_Array1Chieu\bin\Debug\Day05_Array1Chieu.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day05_Array1Chieu\bin\Debug\Day05_Array1Chieu.pdb
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day05_Array1Chieu\obj\Debug\Day05_Array1Chieu_2Chieu.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day05_Array1Chieu\obj\Debug\Day05_Array1Chieu_2Chieu.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day05_Array1Chieu\obj\Debug\Day05_Array1Chieu_2Chieu.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day05_Array1Chieu\obj\Debug\Day05_Array1Chieu.exe
+C:\Users\Admin\Desktop\C#\Kteam_Basic\Day05_Array1Chieu\obj\Debug\Day05_Array1Chieu.pdb
